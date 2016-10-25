@@ -1,0 +1,8 @@
+D:\SITEMAS\slnGestantes\CapaDeDatos\CapaDeUsuario\bin\Debug\CapaDeUsuario.exe.config
+D:\SITEMAS\slnGestantes\CapaDeDatos\CapaDeUsuario\bin\Debug\CapaDeUsuario.exe
+D:\SITEMAS\slnGestantes\CapaDeDatos\CapaDeUsuario\bin\Debug\CapaDeUsuario.pdb
+D:\SITEMAS\slnGestantes\CapaDeDatos\CapaDeUsuario\obj\Debug\CapaDeUsuario.csprojResolveAssemblyReference.cache
+D:\SITEMAS\slnGestantes\CapaDeDatos\CapaDeUsuario\obj\Debug\CapaDeUsuario.Properties.Resources.resources
+D:\SITEMAS\slnGestantes\CapaDeDatos\CapaDeUsuario\obj\Debug\CapaDeUsuario.csproj.GenerateResource.Cache
+D:\SITEMAS\slnGestantes\CapaDeDatos\CapaDeUsuario\obj\Debug\CapaDeUsuario.exe
+D:\SITEMAS\slnGestantes\CapaDeDatos\CapaDeUsuario\obj\Debug\CapaDeUsuario.pdb

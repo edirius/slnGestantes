@@ -1,0 +1,5 @@
+D:\SITEMAS\slnGestantes\CapaDeDatos\CapaDeNegocios\bin\Debug\CapaDeNegocios.dll
+D:\SITEMAS\slnGestantes\CapaDeDatos\CapaDeNegocios\bin\Debug\CapaDeNegocios.pdb
+D:\SITEMAS\slnGestantes\CapaDeDatos\CapaDeNegocios\obj\Debug\CapaDeNegocios.csprojResolveAssemblyReference.cache
+D:\SITEMAS\slnGestantes\CapaDeDatos\CapaDeNegocios\obj\Debug\CapaDeNegocios.dll
+D:\SITEMAS\slnGestantes\CapaDeDatos\CapaDeNegocios\obj\Debug\CapaDeNegocios.pdb

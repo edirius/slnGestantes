@@ -46,6 +46,18 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Establecimientos\frmEstablecimientoSalud.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Establecimientos\frmEstablecimientoSalud.Designer.cs">
+      <DependentUpon>frmEstablecimientoSalud.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Establecimientos\frmMicrored.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Establecimientos\frmMicrored.Designer.cs">
+      <DependentUpon>frmMicrored.cs</DependentUpon>
+    </Compile>
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>

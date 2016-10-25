@@ -76,6 +76,12 @@
     <Compile Include="frmUsuario.Designer.cs">
       <DependentUpon>frmUsuario.cs</DependentUpon>
     </Compile>
+    <Compile Include="Obstetras\frmObstetras.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Obstetras\frmObstetras.Designer.cs">
+      <DependentUpon>frmObstetras.cs</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="frmMantenimientoPaciente.resx">

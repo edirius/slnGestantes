@@ -6,3 +6,6 @@ D:\SITEMAS\slnGestantes\CapaDeDatos\CapaDeUsuario\obj\Debug\CapaDeUsuario.Proper
 D:\SITEMAS\slnGestantes\CapaDeDatos\CapaDeUsuario\obj\Debug\CapaDeUsuario.csproj.GenerateResource.Cache
 D:\SITEMAS\slnGestantes\CapaDeDatos\CapaDeUsuario\obj\Debug\CapaDeUsuario.exe
 D:\SITEMAS\slnGestantes\CapaDeDatos\CapaDeUsuario\obj\Debug\CapaDeUsuario.pdb
+C:\Users\ed\Source\Repos\slnGestantes\CapaDeDatos\CapaDeUsuario\bin\Debug\CapaDeUsuario.exe.config
+C:\Users\ed\Source\Repos\slnGestantes\CapaDeDatos\CapaDeUsuario\obj\Debug\CapaDeUsuario.exe
+C:\Users\ed\Source\Repos\slnGestantes\CapaDeDatos\CapaDeUsuario\obj\Debug\CapaDeUsuario.pdb

@@ -1,6 +1,6 @@
-﻿namespace CapaDeUsuario.Obstetras
+﻿namespace CapaDeUsuario
 {
-    partial class frmObstetras
+    partial class frmMenu
     {
         /// <summary>
         /// Required designer variable.
@@ -30,13 +30,14 @@
         {
             this.SuspendLayout();
             // 
-            // frmObstetras
+            // frmMenu
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(619, 484);
-            this.Name = "frmObstetras";
-            this.Text = "frmObstetras";
+            this.ClientSize = new System.Drawing.Size(1142, 480);
+            this.Name = "frmMenu";
+            this.Text = "frmMenu";
+            this.WindowState = System.Windows.Forms.FormWindowState.Maximized;
             this.ResumeLayout(false);
 
         }

@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace CapaDeNegocios.Establecimientos
 {
-    class cEstablecimientoSalud
+    public class cEstablecimientoSalud
     {
+
     }
 }
